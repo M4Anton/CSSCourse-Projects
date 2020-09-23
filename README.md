@@ -1,2 +1,2 @@
 # CSSCourse-Projects
-Projects created on CSS3 Course
+Projects created during CSS3 Course
